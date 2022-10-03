@@ -11,7 +11,6 @@ def product_finder (id):
     return 404
 
 
-
 def total_calculator(consumed_products):
     subtotal = 0
 
